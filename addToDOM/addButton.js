@@ -25,3 +25,5 @@ function addElementToDom(newElement, newId, newContent) {
     cta.addEventListener('click',exe,false);
   }
 
+  /*.../...*/
+
